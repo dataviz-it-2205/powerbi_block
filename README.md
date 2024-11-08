@@ -1,5 +1,8 @@
 #### Task 1
-In progress...
+![Data Visualization Process - Page 1](page1.jpg)
+![Data Visualization Process - Page 2](page2.jpg)
+![Data Visualization Process - Page 3](page3.jpg)
+![Data Visualization Process - Page 4](page4.jpg)
 
 ##### Tools and Environment
 Data preparation was conducted using **PostgreSQL** and **PGAdmin**. PostgreSQL provided the database platform to handle structured data, while PGAdmin served as the graphical interface for database management and SQL command execution.
